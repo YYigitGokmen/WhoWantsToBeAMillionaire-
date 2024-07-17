@@ -8,7 +8,7 @@ Console.WriteLine("----------------------------------");
 Console.WriteLine("1 -> Hangi şehir Türkiyenin En Doğusundadır?");
 
 int correct = 0;
-//bütün koşullara göre tepki veren bir if else yapısı oluşturdur correct değişkeni ile birlikte.
+//bütün koşullara göre tepki veren bir if else yapısı oluşturdum correct değişkeni ile birlikte.
 //yarışmacı oyunun sonunu göremediğinde return ile programı orda sonlandırdım.
 
 Console.WriteLine(" a) Çankırı b) Iğdır ");
